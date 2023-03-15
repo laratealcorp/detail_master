@@ -1,4 +1,4 @@
-# Screen shoot Master Before Edit
+# ScreenShot Master Before Edit
 
 ### UI Login Desktop
 ![ice_screenshot_20230315-045237](https://user-images.githubusercontent.com/127891037/225133652-ae717d70-8ac0-4669-ae69-aa288f18e96a.png)
